@@ -31,4 +31,4 @@ Kodumuzu yazdıktan sonra Package Manage Console ekranında add-migration ile il
 ![Migration](https://github.com/ugurarican/CodeFirstBasic/blob/master/migration.png)  
 
 MsSQL'e giderek kontrol ediyoruz ve BİNGO. Başarıyla oluşturduk. :)  
-![Db](https://github.com/ugurarican/CodeFirstBasic/blob/master/migration.png)
+![Db](https://github.com/ugurarican/CodeFirstBasic/blob/master/db.png)
